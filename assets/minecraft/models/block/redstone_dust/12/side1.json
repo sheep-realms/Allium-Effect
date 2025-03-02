@@ -1,0 +1,6 @@
+{
+    "parent": "block/redstone_dust/12/side",
+    "textures": {
+        "line": "block/redstone_dust/12/line1"
+    }
+}
