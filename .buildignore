@@ -1,4 +1,5 @@
 .buildignore
 .git
 .github
+social_card
 *.sai2
