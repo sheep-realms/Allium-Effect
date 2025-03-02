@@ -89,6 +89,9 @@
 §7“绒球葱效应”资源包主创
 §f        Sheep-realms
 
+§7“绒球葱效应”着色器贡献者
+§f        Don Trueno
+
 §7“绒球葱之诗”文案优化
 §f        DeepSeek
 
