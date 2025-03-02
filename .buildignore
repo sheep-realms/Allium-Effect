@@ -1,0 +1,4 @@
+.buildignore
+.git
+.github
+*.sai2
