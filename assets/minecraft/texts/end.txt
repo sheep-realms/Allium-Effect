@@ -92,6 +92,9 @@
 §7“绒球葱效应”资源包着色器贡献者
 §f        Don Trueno
 
+§7“绒球葱效应”基岩版资源包作者
+§f        SkyEye FAST
+
 §7“绒球葱之诗”文案优化
 §f        DeepSeek
 
