@@ -1,4 +1,5 @@
+.git/*
+.github/*
+social_card/*
 .buildignore
-.git
-.github
 *.sai2
